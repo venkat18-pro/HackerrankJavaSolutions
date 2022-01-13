@@ -2,7 +2,7 @@ package com.java.solution;
 
 import java.util.Scanner;
 
-public class javaOutputFormatting {
+public class JavaOutputFormatting {
 	
     public static void main(String[] args) {
         Scanner sc=new Scanner(System.in);
